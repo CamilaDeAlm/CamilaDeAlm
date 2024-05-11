@@ -18,10 +18,13 @@ Currently, I work in the data field as a data analyst. Here are some of my activ
 
 - **Continuous Learning** 📚: Currently, I'm learning Docker, Kubernetes, and data manipulation with Python libraries. Additionally, I'm focusing on orchestration and clustering.
 
-- **QA Testing** 🛠️: I was responsible for QA testing and production of our entire payment system.
+- **QA Testing** 🛠️: I was responsible for QA testing and production of our entire payment system.   
 
-## Contact 📧
+## Contact 📫
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/camila-de-almeida-dados/) for more information about my experience and skills.
+You can find me on LinkedIn for more information about my experience and skills.
+<div>
+<a href="https://www.linkedin.com/in/camila-de-almeida-dados/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 Thank you for visiting my profile!
