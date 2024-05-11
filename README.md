@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-<!--
-**CamilaDeAlm/CamilaDeAlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Camila de Almeida and this is my GitHub profile.
 
-Here are some ideas to get you started:
+## About Me ℹ️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I work in the data field as a data analyst. Here are some of my activities:
+
+- **Data Cleaning and Transformation** 🧹: I use SQL to extract, transform, and load data from various sources into a unified database environment. I implement efficient processes to ensure data quality and consistency. I identify and correct inconsistencies, errors, and system failures in datasets.
+
+- **Data Visualization** 📊: I use Python libraries to create engaging and informative visualizations. I develop interactive dashboards in Power BI for effective data communication across various departments in the company.
+
+- **Strategic Reporting** 📈: I develop custom reports for various departments, including Sales, Marketing, Finance, Communications, and Fundraising. I present data insights to support informed decision-making throughout the organization.
+
+- **Salesforce CRM Implementation** 💼: I participated in the implementation of the Salesforce CRM and trained all users in the company.
+
+- **Systems Deployment** 🚀: I have experience in systems deployment and working with SQL or NoSQL databases.
+
+- **Continuous Learning** 📚: Currently, I'm learning Docker, Kubernetes, and data manipulation with Python libraries. Additionally, I'm focusing on orchestration and clustering.
+
+- **QA Testing** 🛠️: I was responsible for QA testing and production of our entire payment system.
+
+## Contact 📧
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/camila-de-almeida-dados/) for more information about my experience and skills.
+
+Thank you for visiting my profile!
