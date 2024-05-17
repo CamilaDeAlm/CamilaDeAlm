@@ -10,7 +10,7 @@ Currently, I work in the data field as a data analyst. Here are some of my activ
 
 - **Data Visualization** : I use Python libraries to create engaging and informative visualizations. I develop interactive dashboards in Power BI for effective data communication across various departments in the company.
 
-- **Strategic Reporting** : I develop custom reports for various departments, including Sales, Marketing, Finance, Communications, and Fundraising. I present data insights to support informed decision-making throughout the organization.
+- **Strategic Reporting** : I develop custom reports for various departments, including Sales, Marketing, Finance, and Communications. I present data insights to support informed decision-making throughout the organization.
 
 - **Salesforce CRM Implementation** : I participated in the implementation of the Salesforce CRM and trained all users in the company.
 
