@@ -14,8 +14,6 @@ Currently, I work in the data field as a data analyst. Here are some of my activ
 
 - **Salesforce CRM Implementation** : I participated in the implementation of the Salesforce CRM and trained all users in the company.
 
-- **Systems Deployment** : I have experience in systems deployment and working with SQL or NoSQL databases.
-
 - **Continuous Learning** : Currently, I'm learning Docker, Kubernetes, and data manipulation with Python libraries. Additionally, I'm focusing on orchestration and clustering.
 
 - **QA Testing** : I was responsible for QA testing and production of our entire payment system.   
